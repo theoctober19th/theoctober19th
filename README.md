@@ -10,7 +10,7 @@ Anything related to music, art and aviation fascinates me. I dream of joining fl
 
 I am a die-hard fan of George RR Martin's 'A Song of Ice and Fire' (though extremely disappointed with 'Game of Thrones' ending). Other shows I love are Mr. Robot, Rick and Morty, Sacred Games and Sherlock. I would jump into the vat of acid if Rick Sanchez asked me to.
 
-Of all things that is eccentric about me, I warn you this my sarcasm level is beyond repair.
+Of all things that is weird about me, I warn you this: my sarcasm level is beyond repair.
 
 In case you want to invite me to coffee, or just say hi:
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
