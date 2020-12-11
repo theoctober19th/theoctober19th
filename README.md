@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm bikalpa. I am from Pokhara, Nepal. In the internet, I am known by the name **theoctober19th**. I speak Python primarily, but can communicate in Java and JavaScript too. Other languages I'm familiar with are C, C++, C# and Swift.
+I'm bikalpa. I am from Pokhara, Nepal. In the internet, I am known by the name **theoctober19th**. I speak Python primarily, but can communicate in C, Java and JavaScript too. Other languages I'm familiar with are C++, C# and Swift.
 
 I love to travel places, watch movies, listen to music and write code. I occasionally ring some stuffs in my guitar, but I won't say I hit the strings as good as I hit the keyboard. 
 
