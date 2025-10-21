@@ -20,14 +20,10 @@ In case you want to invite me to coffee, or just say hi:
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
 
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
 [1]: http://www.twitter.com/theoctober19th
-[2]: http://www.facebook.com/theoctober19th
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
