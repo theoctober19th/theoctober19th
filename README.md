@@ -11,13 +11,4 @@ Lately I'm into YouTube, where I have a programming channel [Bikalpa Codes](http
 Anything related to cinema and aviation fascinates me. In case you want to invite me to coffee, or just say hi:
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1]: http://www.twitter.com/theoctober19th
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
